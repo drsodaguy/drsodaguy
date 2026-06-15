@@ -1,4 +1,4 @@
-# Hi there 👋
+# wsg lightnerds 💻🐦
 i'm an artist and aspiring game/software developer!
 
 ## stuff i use to make my stuff
@@ -14,6 +14,5 @@ i'm an artist and aspiring game/software developer!
 
 ## langauges I'm learning
 - Ruby
-- Python
 - C
 - GDScript
