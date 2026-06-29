@@ -1,5 +1,6 @@
-wsg lightnerds
+# wsg lightnerds
 i'm an artist and aspiring game/software developer
+
 i know a little bit of these languages:
 - Lua
 - Scratch (lmao)
